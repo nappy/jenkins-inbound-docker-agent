@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "name": "jenkins-inbound-docker-agent",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "terminal.integrated.cwd": "${workspaceFolder:jenkins-inbound-docker-agent}"
+  }
+}
